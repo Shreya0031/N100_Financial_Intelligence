@@ -1,0 +1,11 @@
+Rule,Severity,Table,Issue
+DQ-02,CRITICAL,profitandloss,13 duplicate company-year records
+DQ-03,CRITICAL,profitandloss,99 invalid foreign keys
+DQ-04,WARNING,profitandloss,231 missing values
+DQ-06,CRITICAL,profitandloss,1 non-positive sales values
+DQ-08,WARNING,cashflow,2 missing net cash flow values
+DQ-09,WARNING,documents,52 missing annual report links
+DQ-10,WARNING,companies,1 missing website URLs
+DQ-12,WARNING,financial_ratios,2 missing operating cash flow values
+DQ-14,WARNING,prosandcons,5 missing pros
+DQ-15,WARNING,prosandcons,1 missing cons
