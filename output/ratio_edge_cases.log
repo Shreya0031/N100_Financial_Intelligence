@@ -1,0 +1,34 @@
+============================================================
+FINANCIAL RATIO EDGE CASE REPORT
+============================================================
+
+Financial Sector Companies: 23
+
+AXISBANK -> Private Banks | High Debt-to-Equity warning suppressed
+BAJAJFINSV -> Diversified Financials | High Debt-to-Equity warning suppressed
+BAJAJHLDNG -> Holding Companies | High Debt-to-Equity warning suppressed
+BAJFINANCE -> Consumer Finance | High Debt-to-Equity warning suppressed
+BANKBARODA -> Public Sector Banks | High Debt-to-Equity warning suppressed
+CANBK -> Public Sector Banks | High Debt-to-Equity warning suppressed
+CHOLAFIN -> Consumer Finance | High Debt-to-Equity warning suppressed
+HDFCBANK -> Private Banks | High Debt-to-Equity warning suppressed
+HDFCLIFE -> Life Insurance | High Debt-to-Equity warning suppressed
+ICICIBANK -> Private Banks | High Debt-to-Equity warning suppressed
+ICICIGI -> General Insurance | High Debt-to-Equity warning suppressed
+ICICIPRULI -> Life Insurance | High Debt-to-Equity warning suppressed
+INDUSINDBK -> Private Banks | High Debt-to-Equity warning suppressed
+IRFC -> Speciality Finance | High Debt-to-Equity warning suppressed
+JIOFIN -> Diversified Financials | High Debt-to-Equity warning suppressed
+KOTAKBANK -> Private Banks | High Debt-to-Equity warning suppressed
+LICI -> Life Insurance | High Debt-to-Equity warning suppressed
+PFC -> Speciality Finance | High Debt-to-Equity warning suppressed
+PNB -> Public Sector Banks | High Debt-to-Equity warning suppressed
+RECLTD -> Speciality Finance | High Debt-to-Equity warning suppressed
+SBILIFE -> Life Insurance | High Debt-to-Equity warning suppressed
+SBIN -> Public Sector Banks | High Debt-to-Equity warning suppressed
+SHRIRAMFIN -> Consumer Finance | High Debt-to-Equity warning suppressed
+
+============================================================
+ROE / ROCE CROSS CHECK
+============================================================
+
