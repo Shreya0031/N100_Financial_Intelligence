@@ -100,7 +100,12 @@ def interest_coverage_ratio(
     other_income,
     interest
 ):
-    if interest == 0:
+    """
+    Interest Coverage Ratio
+    (Operating Profit + Other Income) / Interest
+    """
+
+    if interest is None or interest <= 0:
         return None
 
     return round(
@@ -136,15 +141,39 @@ def icr_warning(icr):
 # ==========================================
 
 def net_debt(borrowings, investments):
+    """
+    Net Debt = Borrowings - Investments
+    """
+
+    borrowings = borrowings or 0
+    investments = investments or 0
+
     return borrowings - investments
-
-
+    
 # ==========================================
 # Asset Turnover
 # ==========================================
 
 def asset_turnover(sales, total_assets):
-    if total_assets == 0:
+    """
+    Asset Turnover Ratio
+    """
+
+    if total_assets is None or total_assets <= 0:
         return None
 
     return round(sales / total_assets, 2)
+
+# ==========================================
+# OPM Cross Validation
+# ==========================================
+
+def validate_opm(calculated_opm, source_opm):
+    """
+    Returns True if the difference between calculated OPM
+    and source OPM is greater than 1%.
+    """
+    if calculated_opm is None or source_opm is None:
+        return False
+
+    return abs(calculated_opm - source_opm) > 1
