@@ -43,7 +43,7 @@ datasets = {
     "documents": ("documents.xlsx", 1),
     "prosandcons": ("prosandcons.xlsx", 1),
     "financial_ratios": ("financial_ratios.xlsx", 0),
-    "peer_groups": ("peer_groups.xlsx", 1),
+    "peer_groups": ("peer_groups.xlsx", 0),
     "stock_prices": ("stock_prices.xlsx", 1),
     "sectors": ("sectors.xlsx", 0)
 }

@@ -24,8 +24,16 @@ DATASETS = {
 
 def load_excel(file_path):
     """Load a single Excel file."""
+
     try:
-        df = pd.read_excel(file_path, header=1)
+        # Files that have the header in the first row
+        if file_path.name == "peer_groups.xlsx":
+            df = pd.read_excel(file_path, header=0)
+
+        # Files that have the header in the second row
+        else:
+            df = pd.read_excel(file_path, header=1)
+
         print(f"✓ Loaded {file_path.name}")
         return df
 
