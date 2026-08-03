@@ -413,3 +413,53 @@ def debug_metric():
         FROM financial_ratios
         LIMIT 20
     """)
+
+
+@st.cache_data
+def show_financial_ratio_columns():
+    return run_query("""
+        PRAGMA table_info(financial_ratios)
+    """)
+
+
+@st.cache_data(ttl=600)
+def get_capital_metrics():
+    return run_query("""
+        SELECT DISTINCT
+            c.company_name,
+            fr.year,
+            fr.return_on_equity_pct,
+            fr.debt_to_equity,
+            fr.free_cash_flow_cr,
+            fr.asset_turnover,
+            fr.interest_coverage
+        FROM financial_ratios fr
+        JOIN companies c
+            ON fr.company_id = c.id
+        WHERE fr.year = (
+            SELECT MAX(fr2.year)
+            FROM financial_ratios fr2
+            WHERE fr2.company_id = fr.company_id
+        )
+        ORDER BY c.company_name
+    """)
+
+@st.cache_data(ttl=600)
+def get_report_data():
+    return run_query("""
+        SELECT
+            c.company_name,
+            fr.year,
+            fr.return_on_equity_pct,
+            fr.debt_to_equity,
+            fr.free_cash_flow_cr
+        FROM financial_ratios fr
+        JOIN companies c
+            ON fr.company_id = c.id
+        WHERE fr.year = (
+            SELECT MAX(fr2.year)
+            FROM financial_ratios fr2
+            WHERE fr2.company_id = fr.company_id
+        )
+        ORDER BY c.company_name
+    """)

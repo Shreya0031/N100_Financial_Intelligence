@@ -45,7 +45,8 @@ datasets = {
     "financial_ratios": ("financial_ratios.xlsx", 0),
     "peer_groups": ("peer_groups.xlsx", 0),
     "stock_prices": ("stock_prices.xlsx", 1),
-    "sectors": ("sectors.xlsx", 0)
+    "sectors": ("sectors.xlsx", 0),
+    "market_cap": ("market_cap.xlsx", 0)
 }
 
 audit = []
@@ -57,6 +58,19 @@ for table, (filename, header_row) in datasets.items():
     try:
 
         df = pd.read_excel(file_path, header=header_row)
+        
+        # ---------------- DEBUG ----------------
+        if table == "financial_ratios":
+            print("\n==============================")
+            print("FILE LOADED:", file_path)
+            print("==============================")
+
+            print(
+                df[df["company_id"] == "BEL"][
+                    ["company_id", "year", "return_on_equity_pct"]
+                 ].head(12)
+            )
+        # ---------------------------------------
 
         df.to_sql(
             table,
