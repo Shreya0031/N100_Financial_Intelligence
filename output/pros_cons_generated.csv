@@ -1,0 +1,198 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+ABB,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ABB,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ADANIENSOL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ADANIENSOL,Con,C1,Debt-to-equity ratio of 2.93 is elevated and warrants monitoring.,90
+ADANIENSOL,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+ADANIGREEN,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ADANIGREEN,Con,C1,Debt-to-equity ratio of 6.60 is elevated and warrants monitoring.,90
+ADANIPORTS,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ADANIPORTS,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ADANIPOWER,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+ADANIPOWER,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ADANIPOWER,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+APOLLOHOSP,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ASIANPAINT,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+ASIANPAINT,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+BAJAJ-AUTO,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BAJAJ-AUTO,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+AXISBANK,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+AXISBANK,Con,C1,Debt-to-equity ratio of 8.25 is elevated and warrants monitoring.,90
+AXISBANK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+BAJAJFINSV,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BAJAJFINSV,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BAJAJFINSV,Con,C1,Debt-to-equity ratio of 4.79 is elevated and warrants monitoring.,90
+BAJAJHLDNG,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+BAJAJHLDNG,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BAJFINANCE,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BAJFINANCE,Con,C1,Debt-to-equity ratio of 3.82 is elevated and warrants monitoring.,90
+BANKBARODA,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BANKBARODA,Con,C1,Debt-to-equity ratio of 12.14 is elevated and warrants monitoring.,90
+BANKBARODA,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+BHARTIARTL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+BHARTIARTL,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BHARTIARTL,Con,C1,Debt-to-equity ratio of 2.61 is elevated and warrants monitoring.,90
+BEL,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BEL,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+BHEL,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+BOSCHLTD,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BOSCHLTD,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+BPCL,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BPCL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+BRITANNIA,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+BRITANNIA,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+CANBK,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+CANBK,Con,C1,Debt-to-equity ratio of 14.87 is elevated and warrants monitoring.,90
+CANBK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+CHOLAFIN,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+CHOLAFIN,Con,C1,Debt-to-equity ratio of 6.86 is elevated and warrants monitoring.,90
+CIPLA,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+CIPLA,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+COALINDIA,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+COALINDIA,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+COALINDIA,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+DABUR,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+DIVISLAB,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+DIVISLAB,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+DLF,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+DLF,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+DLF,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+DMART,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+DRREDDY,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+DRREDDY,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+EICHERMOT,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+EICHERMOT,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+EICHERMOT,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+GAIL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+GODREJCP,Con,C4,Company reported a net loss in the most recent financial year.,95
+GRASIM,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+HAL,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+HAL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HAL,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+HAVELLS,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HCLTECH,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+HCLTECH,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HDFCBANK,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HDFCBANK,Con,C1,Debt-to-equity ratio of 6.81 is elevated and warrants monitoring.,90
+HDFCBANK,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+HDFCBANK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+HDFCLIFE,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+HDFCLIFE,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+HEROMOTOCO,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+HEROMOTOCO,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HEROMOTOCO,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+HINDALCO,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HINDALCO,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+HINDUNILVR,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+HINDUNILVR,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+HINDUNILVR,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ICICIBANK,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ICICIBANK,Con,C1,Debt-to-equity ratio of 6.45 is elevated and warrants monitoring.,90
+ICICIBANK,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+ICICIBANK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+ICICIGI,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ICICIGI,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ICICIPRULI,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ICICIPRULI,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ICICIPRULI,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+INDUSINDBK,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+INDUSINDBK,Con,C1,Debt-to-equity ratio of 6.89 is elevated and warrants monitoring.,90
+INDUSINDBK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+INFY,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+INFY,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+IOC,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+IOC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+IRCTC,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+IRCTC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+IRCTC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+IRFC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+IRFC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+IRFC,Con,C1,Debt-to-equity ratio of 8.38 is elevated and warrants monitoring.,90
+IRFC,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+IRFC,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+ITC,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+ITC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+ITC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+JIOFIN,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+JIOFIN,Pro,P3,Debt-free balance sheet provides excellent financial flexibility.,95
+JIOFIN,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+JIOFIN,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+JSWENERGY,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+JSWENERGY,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+KOTAKBANK,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+KOTAKBANK,Con,C1,Debt-to-equity ratio of 4.00 is elevated and warrants monitoring.,90
+KOTAKBANK,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+KOTAKBANK,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+LICI,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+LICI,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+LICI,Pro,P3,Debt-free balance sheet provides excellent financial flexibility.,95
+LODHA,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+LT,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+LT,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+LTIM,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+LTIM,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+MARUTI,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+MOTHERSON,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+NAUKRI,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+NAUKRI,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+NESTLEIND,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+NESTLEIND,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+NHPC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+NHPC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+NHPC,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+NTPC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+NTPC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+ONGC,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+PFC,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+PFC,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+PFC,Con,C1,Debt-to-equity ratio of 8.52 is elevated and warrants monitoring.,90
+PFC,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+PFC,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+PIDILITIND,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+PIDILITIND,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+PNB,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+PNB,Con,C1,Debt-to-equity ratio of 3.68 is elevated and warrants monitoring.,90
+PNB,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+POWERGRID,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+POWERGRID,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+RECLTD,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+RECLTD,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+RECLTD,Con,C1,Debt-to-equity ratio of 6.42 is elevated and warrants monitoring.,90
+RELIANCE,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+RELIANCE,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+SBILIFE,Pro,P3,Debt-free balance sheet provides excellent financial flexibility.,95
+SHREECEM,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+SHRIRAMFIN,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+SHRIRAMFIN,Con,C1,Debt-to-equity ratio of 3.99 is elevated and warrants monitoring.,90
+SHRIRAMFIN,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+SUNPHARMA,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+SUNPHARMA,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+TATACONSUM,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TATAMOTORS,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TATAMOTORS,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TATAPOWER,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TATASTEEL,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TATASTEEL,Con,C10,Return on capital employed below 10% suggests weaker capital efficiency.,80
+TCS,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TCS,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TCS,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+TECHM,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TECHM,Con,C7,Dividend payout ratio above 100% may be difficult to sustain.,85
+TITAN,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TITAN,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TORNTPHARM,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TORNTPHARM,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TORNTPHARM,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+TRENT,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TRENT,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+TVSMOTOR,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+TVSMOTOR,Con,C1,Debt-to-equity ratio of 3.83 is elevated and warrants monitoring.,90
+ULTRACEMCO,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+UNIONBANK,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+UNIONBANK,Con,C1,Debt-to-equity ratio of 12.82 is elevated and warrants monitoring.,90
+UNIONBANK,Con,C6,Interest coverage ratio below 1.5 indicates elevated debt servicing risk.,90
+INDIGO,Pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency.,90
+INDIGO,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85
+INDIGO,Pro,P5,Operating profit margin above 25% indicates strong pricing power.,88
+SIEMENS,Pro,P2,Strong free cash flow generation signals healthy business fundamentals.,85

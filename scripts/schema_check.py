@@ -1,9 +1,17 @@
 from pathlib import Path
+import sqlite3
 import pandas as pd
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = PROJECT_ROOT / "data"
+DB = PROJECT_ROOT / "db" / "nifty100.db"
 
-df = pd.read_excel(DATA_DIR / "market_cap.xlsx", header=0)
+conn = sqlite3.connect(DB)
+
+df = pd.read_sql(
+    "SELECT * FROM financial_ratios LIMIT 5",
+    conn
+)
 
 print(df.columns.tolist())
+
+conn.close()
